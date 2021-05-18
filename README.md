@@ -11,7 +11,7 @@
 - Adress:Nandigama<br>
 ### Educational details 
  
-**B-Tech**
+### **B-Tech**
 
 - College Name:__Mic College__<br>
 - Branch :Computer Science Engineering<br>
@@ -19,7 +19,7 @@
 - Percentage : 88%<br>
 - Address : Vijayawada<br>
 
-**Intermediate**
+### **Intermediate**
 
 - College Name:__Sri Chaitanya College__<br>
 - Branch :MPC<br>
@@ -27,32 +27,32 @@
 - Percentage : 94.5%<br>
 - Address : Vijayawada<br>
 
-**SSC**
+### **SSC**
 
 - School Name:__Sree Vidhya High School__<br>
 - Year of study : 2016<br>
 - Percentage : 93%<br>
 - Address : Nandigama<br>
 
-**Skills**
+### **Skills**
 
 - Python - 100%<br>
 - Java   - 80%<br>
 - C Programming - 90%<br>
 - DBMS - 70%<br>
 
-**Goals**
+### **Goals**
 
 I Want to become `software engineer`
 
-**Hobbies**
+### **Hobbies**
 
 - Reading Books<br>
 - Listening Music<br>
 - Watching news<br>
 - Playing games<br>
 
-**Strengths & Weaknesses**
+### **Strengths & Weaknesses**
 
 * Strengths:<br>
   - Hardwork<br>
@@ -60,9 +60,9 @@ I Want to become `software engineer`
 * Weaknesses:<br>
   - I will stay on things untill it gets perfection<br>
 
-**Achievements**
+### **Achievements**
 
-**Projects**
+### **Projects**
 
 
 
