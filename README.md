@@ -9,7 +9,7 @@
 - Mail Id:sowmyasree349@gmail.com<br>
 - Phone no:+91 xxxxxxxxxxx<br>
 - Adress:Nandigama<br>
-### Educational details :
+### Educational details 
  
 **B-Tech**
 
