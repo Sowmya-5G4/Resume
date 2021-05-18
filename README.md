@@ -62,6 +62,8 @@ I Want to become `software engineer`
 
 ### **Achievements**
 
+* Completed course on `c` programming
+
 ### **Projects**
 
 
